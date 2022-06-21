@@ -1,5 +1,5 @@
 # SwagLabs
-SwagLabs WebDriverTests
+SwagLabs WebDriver Tests
 
 ## Setup
 - Install Google Chrome
